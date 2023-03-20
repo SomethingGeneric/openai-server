@@ -4,5 +4,7 @@ tokenizers
 transformers
 regex
 tqdm
-tensorflow>=1.15.0
+tensorflow<=1.15.0
 openai
+ftfy
+protobuf<=3.20.0
